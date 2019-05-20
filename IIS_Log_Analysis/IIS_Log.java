@@ -26,9 +26,9 @@ public class IIS_Log {
 					currentLine.indexOf(".ico") != -1 ||
 					currentLine.indexOf(".gif") != -1) {
 				
-				currentLine = currentLine.substring(currentLine.indexOf("/")); //Right after TCP and till the end of the line
-				currentLine = currentLine.substring(0, currentLine.indexOf(" ")); //Right after TCP and before the ':' of the sub-net
-				currentLine = currentLine.trim(); //Just the IP Address
+				currentLine = currentLine.substring(currentLine.indexOf("/"));
+				currentLine = currentLine.substring(0, currentLine.indexOf(" "));
+				currentLine = currentLine.trim();
 
 				//System.out.println(currentLine);
 				if(!map.containsKey(currentLine))
