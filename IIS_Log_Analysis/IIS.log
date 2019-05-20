@@ -1,0 +1,309 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 00:15:39
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 00:15:39 W3SVC1010 W2K3WEB1 192.168.25.10 GET /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+5.2;+en-US)+AppleWebKit/534.10+(KHTML,+like+Gecko)+Chrome/8.0.558.0+Safari/534.10 - www.google.com 200 0 3529 413 109
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 01:16:59
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 01:16:59 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/geweblog.jpg - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 200 0 15555 414 109
+2018-01-05 01:28:06 W3SVC1010 W2K3WEB1 192.168.25.10 GET /pc1000app.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - 200 0 1680 266 0
+2018-01-05 01:30:50 W3SVC1010 W2K3WEB1 192.168.25.10 GET /Default.htm - 80 - 192.168.25.52 HTTP/1.1 GreenBrowser - - 200 0 9919 193 109
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 02:07:34
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 02:07:33 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/bk21.gif - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+BingPreview/1.0b - - 200 0 12351 355 109
+2018-01-05 02:18:39 W3SVC1010 W2K3WEB1 192.168.25.10 GET /04d002.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 200 0 1676 313 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 02:46:01
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 02:46:01 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/706_con.gif - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 200 0 2537 321 31
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 03:08:05
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 03:08:05 W3SVC1010 W2K3WEB1 192.168.25.10 HEAD /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE3.00;+Windows+2004) - https://bitjournal.io 200 0 387 352 109
+2018-01-05 03:08:30 W3SVC1010 W2K3WEB1 192.168.25.10 HEAD /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE7.00;+Windows+2009) - https://www.samara-airport.com/stranyi/kazan.html 200 0 387 380 109
+2018-01-05 03:16:48 W3SVC1010 W2K3WEB1 192.168.25.10 HEAD /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/3.0+(compatible;+MSIE7.00;+Windows+2003) - http://get-shop.net/ 200 0 387 352 109
+2018-01-05 03:16:48 W3SVC1010 W2K3WEB1 192.168.25.10 HEAD /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/3.0+(compatible;+MSIE6.00;+Windows+2007) - http://best-accs.org/ 200 0 387 353 109
+2018-01-05 03:16:48 W3SVC1010 W2K3WEB1 192.168.25.10 HEAD /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE3.00;+Windows+2002) - https://glavpooltorg.su/category/pavilony-idealcover-klasic-excellence/ 200 0 387 401 109
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 03:35:55
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 03:35:55 W3SVC1010 W2K3WEB1 192.168.25.10 GET /reel.html - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.78+Safari/537.36 - - 200 0 850 267 109
+2018-01-05 03:38:21 W3SVC1010 W2K3WEB1 192.168.25.10 HEAD /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/2.0+(compatible;+MSIE4.00;+Windows+2005) - https://yoga4.ru/kontaktyi.html 200 0 387 363 125
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 04:02:09
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 04:02:09 W3SVC1010 W2K3WEB1 192.168.25.10 GET /robots.txt - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - - 404 2 1850 257 0
+2018-01-05 04:04:48 W3SVC1010 W2K3WEB1 192.168.25.10 GET /dm3000app1.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 200 0 1803 437 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 04:42:30
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 04:42:30 W3SVC1010 W2K3WEB1 192.168.25.10 GET /6065dim.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - - 304 0 319 473 109
+2018-01-05 04:42:30 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/geweblog.jpg - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - http://www.gordoneng.com/6065dim.htm 304 0 295 437 109
+2018-01-05 04:42:30 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/6065dim.gif - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - http://www.gordoneng.com/6065dim.htm 304 0 294 435 109
+2018-01-05 04:42:30 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/GP_LOGO2.jpg - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - http://www.gordoneng.com/6065dim.htm 304 0 296 438 109
+2018-01-05 04:42:30 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/Ge_home.jpg - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - http://www.gordoneng.com/6065dim.htm 304 0 295 436 109
+2018-01-05 04:42:30 W3SVC1010 W2K3WEB1 192.168.25.10 GET /webtraxs.js - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - http://www.gordoneng.com/6065dim.htm 304 0 296 430 109
+2018-01-05 04:42:31 W3SVC1010 W2K3WEB1 192.168.25.10 GET /favicon.ico - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - - 404 2 1850 295 0
+2018-01-05 04:42:31 W3SVC1010 W2K3WEB1 192.168.25.10 GET /favicon.ico - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - - 404 2 1850 355 0
+2018-01-05 04:43:21 W3SVC1010 W2K3WEB1 192.168.25.10 GET /606specs.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - http://www.gordoneng.com/6065dim.htm 304 0 319 521 109
+2018-01-05 04:43:21 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/GE_home.jpg - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - http://www.gordoneng.com/606specs.htm 304 0 295 437 93
+2018-01-05 04:43:21 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/606_wir.gif - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - http://www.gordoneng.com/606specs.htm 304 0 296 438 93
+2018-01-05 04:43:21 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/606_con.gif - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - http://www.gordoneng.com/606specs.htm 304 0 294 436 93
+2018-01-05 04:43:21 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/bk21.gif - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - http://www.gordoneng.com/606specs.htm 304 0 295 434 93
+2018-01-05 04:46:36 W3SVC1010 W2K3WEB1 192.168.25.10 GET /links.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - http://www.gordoneng.com/606specs.htm 200 0 1827 431 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 05:05:34
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 05:05:34 W3SVC1010 W2K3WEB1 192.168.25.10 GET /6065dim.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 200 0 1413 315 93
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 05:38:15
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 05:38:15 W3SVC1010 W2K3WEB1 192.168.25.10 HEAD /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/7.0+(compatible;+MSIE5.00;+Windows+2002) - https://www.translationcorporation.kiev.ua/uslugi.html 200 0 387 383 93
+2018-01-05 05:38:15 W3SVC1010 W2K3WEB1 192.168.25.10 HEAD /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/2.0+(compatible;+MSIE5.00;+Windows+2004) - https://smt4.ru/listyi-perforirovannyie.html 200 0 387 375 93
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 06:14:12
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 06:14:11 W3SVC1010 W2K3WEB1 192.168.25.10 HEAD /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE5.00;+Windows+2003) - http://alcobutik24.com/alkogol-nochyu.html 200 0 387 374 125
+2018-01-05 06:14:13 W3SVC1010 W2K3WEB1 192.168.25.10 HEAD /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/6.0+(compatible;+MSIE6.00;+Windows+2003) - https://54-remont.ru/remont-kvartir/remont-pod-klyuch 200 0 387 383 109
+2018-01-05 06:14:13 W3SVC1010 W2K3WEB1 192.168.25.10 HEAD /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/8.0+(compatible;+MSIE4.00;+Windows+2005) - https://www.dacha-svoimi-rukami.com/sdelat/koptilni-na-dache 200 0 387 392 93
+2018-01-05 06:14:14 W3SVC1010 W2K3WEB1 192.168.25.10 HEAD /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/2.0+(compatible;+MSIE7.00;+Windows+2002) - https://gk-kvazar.ru/category/komizm/ 200 0 387 367 109
+2018-01-05 06:15:21 W3SVC1010 W2K3WEB1 192.168.25.10 GET /test/wp-admin/ - 80 - 192.168.25.52 HTTP/1.1 - - - 404 3 1869 105 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 06:37:27
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 06:37:27 W3SVC1010 W2K3WEB1 192.168.25.10 GET /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) - http://adobereader-free.ru/ 200 0 9923 177 125
+2018-01-05 06:37:27 W3SVC1010 W2K3WEB1 192.168.25.10 GET /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) - http://adobereader-free.ru/ 200 0 9923 177 109
+2018-01-05 06:43:26 W3SVC1010 W2K3WEB1 192.168.25.10 GET /wp/wp-admin/ - 80 - 192.168.25.52 HTTP/1.1 - - - 404 3 1869 99 0
+2018-01-05 06:45:56 W3SVC1010 W2K3WEB1 192.168.25.10 GET /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+95) - http://chatroulette.life/ 200 0 9923 171 109
+2018-01-05 06:45:57 W3SVC1010 W2K3WEB1 192.168.25.10 GET /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.5;+Windows+95) - http://chatroulette.life/ 200 0 9923 171 93
+2018-01-05 06:52:46 W3SVC1010 W2K3WEB1 192.168.25.10 GET /robots.txt - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - - 404 2 1850 257 15
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 07:10:28
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 07:10:27 W3SVC1010 W2K3WEB1 192.168.25.10 GET /links.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_10_4)+AppleWebKit/600.7.12+(KHTML,+like+Gecko)+Version/8.0.7+Safari/600.7.12 - - 200 0 1827 341 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 07:26:57
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 07:26:57 W3SVC1010 W2K3WEB1 192.168.25.10 GET /contact.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.0;+Windows+NT;+DigExt;+DTS+Agent - - 200 0 4117 270 15
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 07:53:14
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 07:53:14 W3SVC1010 W2K3WEB1 192.168.25.10 GET /dm3000app.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - - 200 0 6036 260 93
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 08:11:10
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 08:11:10 W3SVC1010 W2K3WEB1 192.168.25.10 GET /robots.txt - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/1.2~bl;++http://www.semrush.com/bot.html) - - 404 2 1869 236 15
+2018-01-05 08:15:09 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/6065dim.gif - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 200 0 16719 289 0
+2018-01-05 08:16:48 W3SVC1010 W2K3WEB1 192.168.25.10 GET /robots.txt - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - - 404 2 1850 191 15
+2018-01-05 08:16:49 W3SVC1010 W2K3WEB1 192.168.25.10 GET /4000Menc.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - - 200 0 3124 380 109
+2018-01-05 08:21:09 W3SVC1010 W2K3WEB1 192.168.25.10 GET /pc200.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - - 200 0 8359 252 0
+2018-01-05 08:22:54 W3SVC1010 W2K3WEB1 192.168.25.10 GET /robots.txt - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - - 404 2 1850 253 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 09:07:44
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 09:07:44 W3SVC1010 W2K3WEB1 192.168.25.10 GET /pub/dm3000+operating+manual+web.pdf - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 200 0 4712874 464 5375
+2018-01-05 09:16:22 W3SVC1010 W2K3WEB1 192.168.25.10 GET /robots.txt - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 404 2 1850 281 15
+2018-01-05 09:18:36 W3SVC1010 W2K3WEB1 192.168.25.10 GET /dm3000.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - - 200 0 10107 253 109
+2018-01-05 09:23:09 W3SVC1010 W2K3WEB1 192.168.25.10 HEAD /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/3.0+(compatible;+MSIE2.00;+Windows+2002) - http://best-accs.org/ 200 0 387 353 109
+2018-01-05 09:23:09 W3SVC1010 W2K3WEB1 192.168.25.10 HEAD /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/2.0+(compatible;+MSIE6.00;+Windows+2008) - https://xn----7sbabm1ahc4b2aqff.su/ 200 0 387 366 109
+2018-01-05 09:35:25 W3SVC1010 W2K3WEB1 192.168.25.10 GET /robots.txt - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - - 404 2 1850 253 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 10:30:37
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 10:30:37 W3SVC1010 W2K3WEB1 192.168.25.10 GET /1000apps.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - - 200 0 4786 259 15
+2018-01-05 10:32:57 W3SVC1010 W2K3WEB1 192.168.25.10 GET /pc1000app2.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 200 0 1594 437 0
+2018-01-05 10:35:42 W3SVC1010 W2K3WEB1 192.168.25.10 GET /insulatr.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - - 200 0 4854 255 0
+2018-01-05 10:42:16 W3SVC1010 W2K3WEB1 192.168.25.10 GET /6061dim.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.0;+Trident/5.0;++Trident/5.0) - - 200 0 1414 270 46
+2018-01-05 10:42:16 W3SVC1010 W2K3WEB1 192.168.25.10 GET /webtraxs.js - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.0;+Trident/5.0;++Trident/5.0) - http://www.gordoneng.com/6061dim.htm 200 0 4103 342 93
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 11:48:28
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 11:48:28 W3SVC1010 W2K3WEB1 192.168.25.10 GET /wp-admin/ - 80 - 192.168.25.52 HTTP/1.0 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:56.0)+Gecko/20100101+Firefox/56.0 - - 404 2 1874 328 0
+2018-01-05 11:48:31 W3SVC1010 W2K3WEB1 192.168.25.10 GET /wp-login.php - 80 - 192.168.25.52 HTTP/1.0 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:56.0)+Gecko/20100101+Firefox/56.0 - - 404 2 1874 331 0
+2018-01-05 12:03:34 W3SVC1010 W2K3WEB1 192.168.25.10 GET /robots.txt - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - - 404 2 1850 253 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 13:21:04
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 13:21:04 W3SVC1010 W2K3WEB1 192.168.25.10 GET /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+coccocbot-web/1.0;++http://help.coccoc.com/searchengine) - - 304 0 393 409 15
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 14:06:28
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 14:06:28 W3SVC1010 W2K3WEB1 192.168.25.10 GET /pub/DM3000+Operating+Manual+Web.pdf - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - https://www.google.cz/ 206 0 65927 473 0
+2018-01-05 14:06:28 W3SVC1010 W2K3WEB1 192.168.25.10 GET /pub/DM3000+Operating+Manual+Web.pdf - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - https://www.google.cz/ 206 0 59875 481 0
+2018-01-05 14:06:28 W3SVC1010 W2K3WEB1 192.168.25.10 GET /pub/DM3000+Operating+Manual+Web.pdf - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - https://www.google.cz/ 206 0 65935 481 0
+2018-01-05 14:06:29 W3SVC1010 W2K3WEB1 192.168.25.10 GET /pub/DM3000+Operating+Manual+Web.pdf - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - https://www.google.cz/ 206 0 65935 481 15
+2018-01-05 14:06:29 W3SVC1010 W2K3WEB1 192.168.25.10 GET /pub/DM3000+Operating+Manual+Web.pdf - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - https://www.google.cz/ 206 0 65935 481 0
+2018-01-05 14:06:30 W3SVC1010 W2K3WEB1 192.168.25.10 GET /pub/DM3000+Operating+Manual+Web.pdf - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - https://www.google.cz/ 206 0 328080 481 140
+2018-01-05 14:06:31 W3SVC1010 W2K3WEB1 192.168.25.10 GET /pub/DM3000+Operating+Manual+Web.pdf - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - https://www.google.cz/ 200 0 4712874 451 3703
+2018-01-05 14:06:31 W3SVC1010 W2K3WEB1 192.168.25.10 GET /favicon.ico - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - - 404 2 1850 358 0
+2018-01-05 14:06:33 W3SVC1010 W2K3WEB1 192.168.25.10 GET /pub/DM3000+Operating+Manual+Web.pdf - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - https://www.google.cz/ 206 0 65935 481 0
+2018-01-05 14:06:33 W3SVC1010 W2K3WEB1 192.168.25.10 GET /pub/DM3000+Operating+Manual+Web.pdf - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - https://www.google.cz/ 206 0 65935 481 0
+2018-01-05 14:06:33 W3SVC1010 W2K3WEB1 192.168.25.10 GET /pub/DM3000+Operating+Manual+Web.pdf - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - https://www.google.cz/ 206 0 65935 481 0
+2018-01-05 14:14:09 W3SVC1010 W2K3WEB1 192.168.25.10 GET /pub/pc1000+manual.pdf - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 200 0 2483183 446 2953
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 14:39:33
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 14:39:32 W3SVC1010 W2K3WEB1 192.168.25.10 GET /wp-login.php - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:40.0)+Gecko/20100101+Firefox/40.1 - - 404 2 1850 211 0
+2018-01-05 14:39:34 W3SVC1010 W2K3WEB1 192.168.25.10 GET /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:40.0)+Gecko/20100101+Firefox/40.1 - - 200 0 9923 199 109
+2018-01-05 14:53:10 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/GP_LOGO2.jpg - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 200 0 11887 290 93
+2018-01-05 14:53:10 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/PC1000app1.jpg - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 200 0 49036 292 15
+2018-01-05 14:53:12 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/Ge_home.jpg - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 200 0 5110 290 0
+2018-01-05 15:01:04 W3SVC1010 W2K3WEB1 192.168.25.10 GET /pc1000.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 - - 200 0 3395 427 109
+2018-01-05 15:01:05 W3SVC1010 W2K3WEB1 192.168.25.10 GET /webtraxs.js - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 - http://www.gordoneng.com/pc1000.htm 200 0 4103 362 78
+2018-01-05 15:01:05 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/geweblog.jpg - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 - http://www.gordoneng.com/pc1000.htm 200 0 15555 406 78
+2018-01-05 15:01:05 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/Ge_home.jpg - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 - http://www.gordoneng.com/pc1000.htm 200 0 5110 405 0
+2018-01-05 15:01:05 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/BlueBall.gif - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 - http://www.gordoneng.com/pc1000.htm 200 0 467 406 62
+2018-01-05 15:01:05 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/PC1000.jpg - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 - http://www.gordoneng.com/pc1000.htm 200 0 35065 404 109
+2018-01-05 15:01:05 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/cuslisth.gif - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 - http://www.gordoneng.com/pc1000.htm 200 0 889 406 109
+2018-01-05 15:01:05 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/RedBall.gif - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 - http://www.gordoneng.com/pc1000.htm 200 0 1248 405 109
+2018-01-05 15:01:05 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/GP_LOGO2.jpg - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 - http://www.gordoneng.com/pc1000.htm 200 0 11887 406 109
+2018-01-05 15:01:05 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/bk21.gif - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 - http://www.gordoneng.com/pc1000.htm 200 0 12351 402 109
+2018-01-05 15:01:06 W3SVC1010 W2K3WEB1 192.168.25.10 GET /favicon.ico - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 - http://www.gordoneng.com/pc1000.htm 404 2 1850 398 0
+2018-01-05 15:01:42 W3SVC1010 W2K3WEB1 192.168.25.10 GET /robots.txt - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - - 404 2 1850 253 0
+2018-01-05 15:02:27 W3SVC1010 W2K3WEB1 192.168.25.10 GET /1000apps.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 - http://www.gordoneng.com/pc1000.htm 200 0 1549 475 15
+2018-01-05 15:02:30 W3SVC1010 W2K3WEB1 192.168.25.10 GET /pc1000app2.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 - http://www.gordoneng.com/1000apps.htm 200 0 1594 479 0
+2018-01-05 15:02:30 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/Quad+Proxa2.jpg - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 - http://www.gordoneng.com/pc1000app2.htm 200 0 186256 415 78
+2018-01-05 15:10:05 W3SVC1010 W2K3WEB1 192.168.25.10 GET /robots.txt - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - - 404 2 1869 251 0
+2018-01-05 15:13:08 W3SVC1010 W2K3WEB1 192.168.25.10 GET /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - 200 0 3548 251 15
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 15:43:20
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 15:43:20 W3SVC1010 W2K3WEB1 192.168.25.10 GET /pub/PC1000+Manual.pdf - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+10_3_2+like+Mac+OS+X)+AppleWebKit/603.2.4+(KHTML,+like+Gecko)+Version/10.0+Mobile/14F89+Safari/602.1 - - 200 0 2483183 488 2437
+2018-01-05 15:43:30 W3SVC1010 W2K3WEB1 192.168.25.10 GET /apple-touch-icon-120x120-precomposed.png - 80 - 192.168.25.52 HTTP/1.1 MobileSafari/602.1+CFNetwork/811.5.4+Darwin/16.6.0 - - 404 2 1850 322 0
+2018-01-05 15:43:34 W3SVC1010 W2K3WEB1 192.168.25.10 GET /apple-touch-icon-120x120.png - 80 - 192.168.25.52 HTTP/1.1 MobileSafari/602.1+CFNetwork/811.5.4+Darwin/16.6.0 - - 404 2 1850 310 0
+2018-01-05 15:43:36 W3SVC1010 W2K3WEB1 192.168.25.10 GET /apple-touch-icon-precomposed.png - 80 - 192.168.25.52 HTTP/1.1 MobileSafari/602.1+CFNetwork/811.5.4+Darwin/16.6.0 - - 404 2 1850 314 0
+2018-01-05 15:43:41 W3SVC1010 W2K3WEB1 192.168.25.10 GET /apple-touch-icon.png - 80 - 192.168.25.52 HTTP/1.1 MobileSafari/602.1+CFNetwork/811.5.4+Darwin/16.6.0 - - 404 2 1850 302 15
+2018-01-05 15:43:47 W3SVC1010 W2K3WEB1 192.168.25.10 GET /favicon.ico - 80 - 192.168.25.52 HTTP/1.1 MobileSafari/602.1+CFNetwork/811.5.4+Darwin/16.6.0 - - 404 2 1850 293 0
+2018-01-05 15:43:48 W3SVC1010 W2K3WEB1 192.168.25.10 GET /apple-touch-icon-120x120-precomposed.png - 80 - 192.168.25.52 HTTP/1.1 MobileSafari/602.1+CFNetwork/811.5.4+Darwin/16.6.0 - - 404 2 1850 322 0
+2018-01-05 15:43:49 W3SVC1010 W2K3WEB1 192.168.25.10 GET /apple-touch-icon-120x120.png - 80 - 192.168.25.52 HTTP/1.1 MobileSafari/602.1+CFNetwork/811.5.4+Darwin/16.6.0 - - 404 2 1850 310 0
+2018-01-05 15:43:49 W3SVC1010 W2K3WEB1 192.168.25.10 GET /apple-touch-icon-precomposed.png - 80 - 192.168.25.52 HTTP/1.1 MobileSafari/602.1+CFNetwork/811.5.4+Darwin/16.6.0 - - 404 2 1850 314 0
+2018-01-05 15:43:49 W3SVC1010 W2K3WEB1 192.168.25.10 GET /apple-touch-icon.png - 80 - 192.168.25.52 HTTP/1.1 MobileSafari/602.1+CFNetwork/811.5.4+Darwin/16.6.0 - - 404 2 1850 302 15
+2018-01-05 15:43:49 W3SVC1010 W2K3WEB1 192.168.25.10 GET /favicon.ico - 80 - 192.168.25.52 HTTP/1.1 MobileSafari/602.1+CFNetwork/811.5.4+Darwin/16.6.0 - - 404 2 1850 293 0
+2018-01-05 15:49:16 W3SVC1010 W2K3WEB1 192.168.25.10 GET /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Linux;+U;+Android+5.0.2;+zh-CN;+Redmi+Note+3+Build/LRX22G)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+OPR/11.2.3.102637+Mobile+Safari/537.36 - - 200 0 3529 449 109
+2018-01-05 16:01:41 W3SVC1010 W2K3WEB1 192.168.25.10 GET /blog/wp-login.php - 80 - 192.168.25.52 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/48.0.2564.116+Safari/537.36 - http://gordoneng.com/blog/wp-login.php 404 3 1869 274 15
+2018-01-05 16:01:41 W3SVC1010 W2K3WEB1 192.168.25.10 GET /wordpress/wp-login.php - 80 - 192.168.25.52 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 - http://gordoneng.com/wordpress/wp-login.php 404 3 1869 284 0
+2018-01-05 16:01:41 W3SVC1010 W2K3WEB1 192.168.25.10 GET /wp-login.php - 80 - 192.168.25.52 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/47.0.2526.111+Safari/537.36 - http://gordoneng.com/wp-login.php 404 2 1869 264 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 16:33:58
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 16:33:58 W3SVC1010 W2K3WEB1 192.168.25.10 GET /Pipe+Clamps.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - - 200 0 9615 260 93
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 16:53:13
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 16:53:13 W3SVC1010 W2K3WEB1 192.168.25.10 GET /6065dim.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - - 200 0 1413 428 109
+2018-01-05 16:53:13 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/geweblog.jpg - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - http://www.gordoneng.com/6065dim.htm 200 0 15555 393 109
+2018-01-05 16:53:13 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/6065dim.gif - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - http://www.gordoneng.com/6065dim.htm 200 0 16719 392 15
+2018-01-05 16:53:13 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/Ge_home.jpg - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - http://www.gordoneng.com/6065dim.htm 200 0 5110 392 15
+2018-01-05 16:53:13 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/GP_LOGO2.jpg - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - http://www.gordoneng.com/6065dim.htm 200 0 11887 393 109
+2018-01-05 16:53:13 W3SVC1010 W2K3WEB1 192.168.25.10 GET /webtraxs.js - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - http://www.gordoneng.com/6065dim.htm 200 0 4103 385 109
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 17:37:16
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 17:37:16 W3SVC1010 W2K3WEB1 192.168.25.10 GET /robots.txt - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/45.0.2454.93+Safari/537.36 - - 404 2 1869 294 0
+2018-01-05 17:40:44 W3SVC1010 W2K3WEB1 192.168.25.10 GET /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:26.0)+Gecko/20100101+Firefox/26.0 - https://google.com/ 200 0 3525 441 93
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 18:02:49
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 18:02:49 W3SVC1010 W2K3WEB1 192.168.25.10 GET /robots.txt - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - - 404 2 1850 257 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 18:28:20
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 18:28:20 W3SVC1010 W2K3WEB1 192.168.25.10 GET /robots.txt - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - 404 2 1850 219 15
+2018-01-05 18:28:24 W3SVC1010 W2K3WEB1 192.168.25.10 GET /favicon.ico - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - 404 2 1850 264 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 19:23:12
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 19:23:12 W3SVC1010 W2K3WEB1 192.168.25.10 GET /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) - - 200 0 3529 276 125
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 20:14:31
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 20:14:31 W3SVC1010 W2K3WEB1 192.168.25.10 GET /wp-login.php - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:40.0)+Gecko/20100101+Firefox/40.1 - - 404 2 1850 210 0
+2018-01-05 20:14:31 W3SVC1010 W2K3WEB1 192.168.25.10 GET /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:40.0)+Gecko/20100101+Firefox/40.1 - - 200 0 9923 198 125
+2018-01-05 20:16:54 W3SVC1010 W2K3WEB1 192.168.25.10 GET /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+Maxthon;+.NET+CLR+1.1.4322) - http://produkto.net/ 200 0 9923 199 109
+2018-01-05 20:16:55 W3SVC1010 W2K3WEB1 192.168.25.10 GET /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+Maxthon;+.NET+CLR+1.1.4322) - http://produkto.net/ 200 0 9923 199 109
+2018-01-05 20:16:55 W3SVC1010 W2K3WEB1 192.168.25.10 GET /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+Maxthon;+.NET+CLR+1.1.4322) - http://produkto.net/ 200 0 9923 199 109
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 21:07:14
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 21:07:14 W3SVC1010 W2K3WEB1 192.168.25.10 GET /035_dim.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 - https://www.google.com/ 200 0 1366 462 62
+2018-01-05 21:07:14 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/Ge_home.jpg - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 - http://www.gordoneng.com/035_dim.htm 200 0 5110 406 15
+2018-01-05 21:07:14 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/geweblog.jpg - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 - http://www.gordoneng.com/035_dim.htm 200 0 15555 407 109
+2018-01-05 21:07:14 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/GP_LOGO2.jpg - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 - http://www.gordoneng.com/035_dim.htm 200 0 11887 407 125
+2018-01-05 21:07:14 W3SVC1010 W2K3WEB1 192.168.25.10 GET /webtraxs.js - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 - http://www.gordoneng.com/035_dim.htm 200 0 4103 363 125
+2018-01-05 21:07:14 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/035_dim.gif - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 - http://www.gordoneng.com/035_dim.htm 200 0 38681 406 125
+2018-01-05 21:07:14 W3SVC1010 W2K3WEB1 192.168.25.10 GET /favicon.ico - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.84+Safari/537.36 - http://www.gordoneng.com/035_dim.htm 404 2 1850 399 0
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 21:50:11
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 21:50:10 W3SVC1010 W2K3WEB1 192.168.25.10 GET /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/44.0.2403.157+Safari/537.36 - - 200 0 3525 345 109
+2018-01-05 22:02:23 W3SVC1010 W2K3WEB1 192.168.25.10 GET /pc1000app2.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 200 0 1594 441 15
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 22:19:57
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 22:19:57 W3SVC1010 W2K3WEB1 192.168.25.10 GET /robots.txt - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - 404 2 1850 196 0
+2018-01-05 22:19:57 W3SVC1010 W2K3WEB1 192.168.25.10 GET /contact.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - - 304 0 317 306 109
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 22:37:12
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 22:37:10 W3SVC1010 W2K3WEB1 192.168.25.10 GET /pub/PC1000+Manual.pdf - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+10_3_2+like+Mac+OS+X)+AppleWebKit/603.2.4+(KHTML,+like+Gecko)+Version/10.0+Mobile/14F89+Safari/602.1 - - 200 64 0 488 15
+2018-01-05 22:37:12 W3SVC1010 W2K3WEB1 192.168.25.10 GET /apple-touch-icon-120x120-precomposed.png - 80 - 192.168.25.52 HTTP/1.1 MobileSafari/602.1+CFNetwork/811.5.4+Darwin/16.6.0 - - 404 64 0 322 1297
+2018-01-05 22:37:13 W3SVC1010 W2K3WEB1 192.168.25.10 GET /apple-touch-icon-120x120.png - 80 - 192.168.25.52 HTTP/1.1 MobileSafari/602.1+CFNetwork/811.5.4+Darwin/16.6.0 - - 404 2 1850 310 375
+2018-01-05 22:37:14 W3SVC1010 W2K3WEB1 192.168.25.10 GET /apple-touch-icon-precomposed.png - 80 - 192.168.25.52 HTTP/1.1 MobileSafari/602.1+CFNetwork/811.5.4+Darwin/16.6.0 - - 404 2 1850 314 1562
+2018-01-05 22:37:15 W3SVC1010 W2K3WEB1 192.168.25.10 GET /apple-touch-icon.png - 80 - 192.168.25.52 HTTP/1.1 MobileSafari/602.1+CFNetwork/811.5.4+Darwin/16.6.0 - - 404 2 1850 302 1156
+2018-01-05 22:37:17 W3SVC1010 W2K3WEB1 192.168.25.10 GET /favicon.ico - 80 - 192.168.25.52 HTTP/1.1 MobileSafari/602.1+CFNetwork/811.5.4+Darwin/16.6.0 - - 404 2 1850 293 968
+2018-01-05 22:37:17 W3SVC1010 W2K3WEB1 192.168.25.10 GET /apple-touch-icon-120x120-precomposed.png - 80 - 192.168.25.52 HTTP/1.1 MobileSafari/602.1+CFNetwork/811.5.4+Darwin/16.6.0 - - 404 2 1850 322 734
+2018-01-05 22:37:18 W3SVC1010 W2K3WEB1 192.168.25.10 GET /apple-touch-icon-120x120.png - 80 - 192.168.25.52 HTTP/1.1 MobileSafari/602.1+CFNetwork/811.5.4+Darwin/16.6.0 - - 404 2 1850 310 375
+2018-01-05 22:37:19 W3SVC1010 W2K3WEB1 192.168.25.10 GET /apple-touch-icon-precomposed.png - 80 - 192.168.25.52 HTTP/1.1 MobileSafari/602.1+CFNetwork/811.5.4+Darwin/16.6.0 - - 404 2 1850 314 1125
+2018-01-05 22:37:19 W3SVC1010 W2K3WEB1 192.168.25.10 GET /apple-touch-icon.png - 80 - 192.168.25.52 HTTP/1.1 MobileSafari/602.1+CFNetwork/811.5.4+Darwin/16.6.0 - - 404 2 1850 302 375
+2018-01-05 22:37:20 W3SVC1010 W2K3WEB1 192.168.25.10 GET /favicon.ico - 80 - 192.168.25.52 HTTP/1.1 MobileSafari/602.1+CFNetwork/811.5.4+Darwin/16.6.0 - - 404 2 1850 293 750
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2018-01-05 22:55:00
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) sc-status sc-win32-status sc-bytes cs-bytes time-taken 
+2018-01-05 22:55:00 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/PC251.jpg - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 200 0 21383 319 46
+2018-01-05 22:58:07 W3SVC1010 W2K3WEB1 192.168.25.10 GET /250specs.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - 200 0 2496 263 0
+2018-01-05 22:58:57 W3SVC1010 W2K3WEB1 192.168.25.10 GET /pub/rc4000+manual+screen.pdf - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 200 0 943711 455 750
+2018-01-05 23:13:40 W3SVC1010 W2K3WEB1 192.168.25.10 GET /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 200 0 3529 303 78
+2018-01-05 23:14:05 W3SVC1010 W2K3WEB1 192.168.25.10 GET /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.40607) - http://dokunet.org/ 200 0 9923 232 109
+2018-01-05 23:14:06 W3SVC1010 W2K3WEB1 192.168.25.10 GET /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.40607) - http://dokunet.org/ 200 0 9923 232 109
+2018-01-05 23:14:07 W3SVC1010 W2K3WEB1 192.168.25.10 GET /Default.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1;+.NET+CLR+1.0.3705;+.NET+CLR+1.1.4322;+.NET+CLR+2.0.40607) - http://dokunet.org/ 200 0 9923 232 109
+2018-01-05 23:16:56 W3SVC1010 W2K3WEB1 192.168.25.10 GET /pc1000app2.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 200 0 1594 317 0
+2018-01-05 23:32:10 W3SVC1010 W2K3WEB1 192.168.25.10 GET /RC4000.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://www.gordoneng.com/reel.html 200 0 3012 435 109
+2018-01-05 23:32:10 W3SVC1010 W2K3WEB1 192.168.25.10 GET /webtraxs.js - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://www.gordoneng.com/RC4000.htm 200 0 4103 377 109
+2018-01-05 23:32:11 W3SVC1010 W2K3WEB1 192.168.25.10 GET /RC4000.htm - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - 200 0 3012 263 109
+2018-01-05 23:34:49 W3SVC1010 W2K3WEB1 192.168.25.10 GET /images/04B013+Mnt+Plt.gif - 80 - 192.168.25.52 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - 200 0 13792 332 15
